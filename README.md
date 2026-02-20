@@ -19,3 +19,5 @@ Netflix titles dataset used for analysis and visualization.
 - Dataset loading
 - Data cleaning
 - Initial exploration
+
+Milestone 1 completed and submitted.
